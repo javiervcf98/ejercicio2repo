@@ -1,0 +1,2 @@
+Proyecto de Git Hub donde aprendemos a hacer un proyecto basico a partir de una organizacion por carpetas y manejar diferentes ramas
+He tenido problemas con la organizacion en los procesos, principalmente en la organizacion del proyecto y en los commits
